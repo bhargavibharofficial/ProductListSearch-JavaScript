@@ -87,7 +87,14 @@ let products = {
             ProductID:"1674",
             ProductName:"The Stella",
             image:"https://webuildonyourlot.com/wp-content/uploads/2019/09/NOV_QS_Emma_MIR_Elevation-C_Exterior4-e1529432669611-400x266.jpg"
-        }
+        },
+        {
+          ProjectGroupID: "47",
+          MetroAreaID: "1008",
+          ProjectName: "Oldfield",
+          ProductID: "NULL",
+          ProductName: "NULL"
+      }
     ],
   };
   function createProductCard(i) {
